@@ -6,3 +6,5 @@ Train Test Accuracies and Losses
 
 ![](images/accuracy_loss_plot.PNG)
 
+![](images/confusion matrix.PNG)
+
